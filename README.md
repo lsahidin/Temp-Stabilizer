@@ -5,3 +5,5 @@ automatically stabilize the temperature.
 
 Thanks,<br>
 Luqman S
+
+This code was downloaded from http://www.github.com/lsahidin/tempstab
